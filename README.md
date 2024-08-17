@@ -10,6 +10,9 @@ Note Manager Firebase is a cloud-based note-taking application that makes organi
  - Delete Notes:
  - Real-Time Synchronization:
 
+## Live Here -
+https://note-manager-praveen.vercel.app/
+
 ## Getting Started
 
 ### install all the required dependencies.
