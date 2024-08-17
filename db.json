@@ -1,0 +1,46 @@
+{
+  "notes": [
+    {
+      "id": "c346",
+      "title": "Grocery List",
+      "content": "Remember to buy milk, bread, and coffee. Don’t forget to check for any discounts on cereals and fruits.",
+      "created_at": "09/08/2024"
+    },
+    {
+      "id": "24bf",
+      "title": "Meeting with Team",
+      "content": "Schedule a team meeting for next Wednesday at 10 AM. Discuss the progress on the new project and assign tasks for the next sprint.",
+      "created_at": "09/08/2024"
+    },
+    {
+      "id": "3b22",
+      "title": "Vacation Plans",
+      "content": "Plan a trip to the mountains during the last week of September. Look for accommodation options and check the weather forecast.",
+      "created_at": "09/08/2024"
+    },
+    {
+      "id": "a307",
+      "title": "Book Recommendations",
+      "content": "Consider reading \"Atomic Habits\" by James Clear, \"Educated\" by Tara Westover, and \"Sapiens\" by Yuval Noah Harari. Check the local bookstore or online.",
+      "created_at": "09/08/2024"
+    },
+    {
+      "id": "88e7",
+      "title": "Workout Routine",
+      "content": "Start the new workout routine: Monday - Cardio, Tuesday - Strength training, Wednesday - Yoga, Thursday - HIIT, Friday - Rest, Saturday - Full-body workout, Sunday - Rest.",
+      "created_at": "09/08/2024"
+    },
+    {
+      "id": "4035",
+      "title": "Home Improvement",
+      "content": "Repaint the living room, replace the old carpet with hardwood flooring, and install new shelves in the kitchen.",
+      "created_at": "09/08/2024"
+    },
+    {
+      "id": "fed4",
+      "title": "Ideas for Blog Posts",
+      "content": "Write about the impact of remote work on productivity, tips for better time management, and the benefits of mindfulness in daily life.",
+      "created_at": "09/08/2024"
+    }
+  ]
+}

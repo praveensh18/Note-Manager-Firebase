@@ -1,0 +1,17 @@
+.container {
+	padding: 50px;
+	border-radius: 22px;
+	background-color: #fff;
+}
+
+.icon {
+	cursor: pointer;
+}
+
+.title_input_container {
+	max-width: 300px;
+}
+
+.submit_btn {
+	text-align: right;
+}
