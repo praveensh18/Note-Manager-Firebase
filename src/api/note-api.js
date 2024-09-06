@@ -38,7 +38,7 @@ export class NoteAPI {
     };
   }
 
-  static async deleteNote(noteId) {
+  static async deleteNoteById(noteId) {
     const reference = doc(FirebaseApp.db, 'notes', noteId)
     await deleteDoc(reference)
   }
